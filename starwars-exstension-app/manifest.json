@@ -1,0 +1,9 @@
+{
+    "name": "Starwars Encyclopedia",
+    "version": "1.0.0",
+    "description": "Your one stop shop for knowledge of a galaxy far far away!",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+}
